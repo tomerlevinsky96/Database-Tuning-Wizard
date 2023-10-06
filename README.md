@@ -1,1 +1,2 @@
 This project aims to develop an automatic database tuning wizard that interfaces with database systems, gathering performance metrics and employing advanced algorithms to generate actionable recommendations. These recommendations are provided as suggestions for manual implementation by database administrators, developers, or anyone seeking to enhance database performance.
+To see the presentaition of the project click here:https://www.youtube.com/watch?v=iugwbVzLGOg
